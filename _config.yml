@@ -2,6 +2,7 @@ name: MB3
 favicon: null
 layout_spectrum: 0.6473139843437821
 typography_spectrum: 0.23219798877835274
+title: MB3
 cta:
   domain: null
   bucket: null
