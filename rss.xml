@@ -4,8 +4,22 @@
         <description><![CDATA[MB3]]></description>
         <link>https://thegrid.ai/mb3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 20:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 20:40:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mb3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cee702b428a6bbb82c5e89157636d3b9c536758c.jpg"></article>]]></description>
+            <link>http://artgallery.yale.edu/</link>
+            <guid isPermaLink="false">87e7289a-857d-4161-aea5-e8f6a4059a2e</guid>
+            <pubDate>Wed, 11 May 2016 20:39:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mystic Aquarium]]></title>
+            <description><![CDATA[<article><h1>Mystic Aquarium</h1><p>Mystic Aquarium, located in Mystic Connecticut, is one of the nation's leading aquariums and home to Beluga whales, African penguins, Steller sea lions and variety of other marine mammals and fish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a59fd51a5146b6d5d474394486d454d91b1fe966.jpg"></article>]]></description>
+            <link>http://www.mysticaquarium.org/</link>
+            <guid isPermaLink="false">81f86cdf-4521-47ff-8484-a15ce7196846</guid>
+            <pubDate>Wed, 11 May 2016 20:39:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Roll-N-Go Personal Watercraft Shore Docks RNGPWC | DiscountRamps.com]]></title>
             <description><![CDATA[<article><h1>Roll-N-Go Personal Watercraft Shore Docks RNGPWC | DiscountRamps.com</h1><p>PWC docks for landing your jet ski on shore. Adjustable to accomodate almost any personal watercraft & dock setup.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb524d094c9f37517c70593a766ef9b7a343e1a5.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://www.paradiserock.club/events/yeasayer-2800403/</link>
             <guid isPermaLink="false">a1980f02-caf1-4f05-9ede-cdc87075f197</guid>
             <pubDate>Wed, 11 May 2016 20:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Electric Factory - Electric Factory Home]]></title>
-            <description><![CDATA[<article><h1>Electric Factory - Electric Factory Home</h1><p>Get Tickets</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89c12d0bcfe0db22719990cbdffda8f321db52e9.jpg"></article>]]></description>
-            <link>http://electricfactory.info/</link>
-            <guid isPermaLink="false">9cac8ebf-3f85-4dfa-a8f4-9db7b7cc04c8</guid>
-            <pubDate>Wed, 11 May 2016 20:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Great Scott ... Allston rocks]]></title>
-            <description><![CDATA[<article><h1>Great Scott ... Allston rocks</h1></article>]]></description>
-            <link>http://www.greatscottboston.com/</link>
-            <guid isPermaLink="false">b53e99f0-972c-494f-a19d-91475d591a56</guid>
-            <pubDate>Wed, 11 May 2016 20:38:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
