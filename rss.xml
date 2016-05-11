@@ -4,8 +4,15 @@
         <description><![CDATA[MB3]]></description>
         <link>https://thegrid.ai/mb3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 20:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 20:40:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mb3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>boardwalk</p>]]></description>
+            <link>https://thegrid.ai/mb3/boardwalk/index.html</link>
+            <guid isPermaLink="false">7c649bfd-c2ff-43d2-a3d0-7c33deafa4c2</guid>
+            <pubDate>Wed, 11 May 2016 20:39:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>amusement</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Alpine Valley Music Theatre</h1><p>This site is not affiliated or sponsored by LiveNation, Ticketmaster or Xfinity Center. This site links to resale tickets to events at Xfinity Center. See Disclaime Nestled in the gorgeous greenery of East Troy, Wisconsin, Alpine Valley Music Theatre established itself long ago as one of the state's premier venues for live music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5cf18714f1078c3b3004651d220c9626b21bdd04.jpg"></article>]]></description>
             <link>http://alpinevalleymusictheatre.org/</link>
             <guid isPermaLink="false">83b8a977-ce07-42bb-befc-ec1d4d4705f6</guid>
-            <pubDate>Wed, 11 May 2016 20:39:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>A website for Baby's All Right, which is a bar, eatery, and music venue in the historic neighborhood of Williamsburg Brooklyn New York New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2da4def4507907e6f463faf7dba86ba373467691.jpg"></article>]]></description>
-            <link>http://babysallright.com/</link>
-            <guid isPermaLink="false">d404eefa-6dc9-43d8-808f-5c5a41012220</guid>
             <pubDate>Wed, 11 May 2016 20:39:28 GMT</pubDate>
         </item>
     </channel>
